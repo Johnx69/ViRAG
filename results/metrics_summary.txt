@@ -1,0 +1,28 @@
+=== RAG PIPELINE EVALUATION SUMMARY ===
+
+Evaluation Date: 2025-06-19T17:07:52.943562
+Total Questions: 200
+
+=== GPT-4 EVALUATION METRICS ===
+Factual Accuracy: 4.345 ± 1.318
+Completeness: 4.315 ± 1.321
+Relevance: 4.400 ± 1.175
+Language Quality: 4.805 ± 0.476
+Overall Score: 4.466 ± 1.040
+
+=== TRADITIONAL NLP METRICS ===
+BLEU SCORE: 0.316 ± 0.287
+METEOR SCORE: 0.716 ± 0.265
+ROUGE1 F: 0.562 ± 0.273
+ROUGE2 F: 0.467 ± 0.293
+ROUGEL F: 0.533 ± 0.275
+
+=== RETRIEVAL METRICS (k=1) ===
+Retrieval Precision: 0.872 ± 0.239
+Retrieval Recall: 0.728 ± 0.350
+Retrieval F1: 0.752 ± 0.327
+Context Relevance: 0.879 ± 0.264
+
+=== SOURCE DISTRIBUTION ===
+wikipedia: 193 (96.5%)
+web_search: 7 (3.5%)

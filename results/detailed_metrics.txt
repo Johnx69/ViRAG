@@ -1,0 +1,1816 @@
+=== DETAILED METRICS BREAKDOWN ===
+
+Question 1: Tịnh An thuộc thành phố nào tại Việt Nam?
+Generated Answer: Tịnh An là một xã thuộc thành phố Quảng Ngãi, tỉnh Quảng Ngãi, Việt Nam....
+Ground Truth: Tịnh An thuộc thành phố Quảng Ngãi.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.239, ROUGE-L=0.649
+Retrieval Metrics: Precision=0.971, Recall=0.567, F1=0.716
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 2: Ptychocoleus wichurae thuộc họ nào?
+Generated Answer: Ptychocoleus wichurae thuộc họ Lejeuneaceae....
+Ground Truth: Ptychocoleus wichurae thuộc họ Lejeuneaceae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=0.967, Recall=0.967, F1=0.967
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 3: Bettencourt-Saint-Ouen thuộc tỉnh nào của Pháp?
+Generated Answer: Bettencourt-Saint-Ouen thuộc tỉnh Somme của Pháp....
+Ground Truth: Bettencourt-Saint-Ouen thuộc tỉnh Somme.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.435, ROUGE-L=0.800
+Retrieval Metrics: Precision=0.973, Recall=0.581, F1=0.727
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 4: Baptria aterrima thuộc họ nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Baptria aterrima là một loài bướm đêm thuộc họ Geometridae....
+Ground Truth: Baptria aterrima thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.135, ROUGE-L=0.364
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 5: Ca khúc "Trả lại thoáng mây bay" do ai sáng tác và khi nào?
+Generated Answer: Ca khúc "Trả lại thoáng mây bay" do nhạc sĩ Hoàng Thanh Tâm sáng tác tại Bruxelles vào năm 1980....
+Ground Truth: Ca khúc "Trả lại thoáng mây bay" được sáng tác bởi nhạc sĩ Hoàng Thanh Tâm vào năm 1980.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.635, ROUGE-L=0.762
+Retrieval Metrics: Precision=0.974, Recall=0.342, F1=0.507
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 6: Lypha frontalis thuộc họ nào?
+Generated Answer: Theo thông tin trên Wikipedia, Lypha frontalis là một loài ruồi thuộc họ Tachinidae....
+Ground Truth: Lypha frontalis thuộc họ Tachinidae.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.182, ROUGE-L=0.462
+Retrieval Metrics: Precision=0.520, Recall=0.929, F1=0.667
+Source: web_search
+--------------------------------------------------------------------------------
+
+Question 7: Dân số của xã Güllüce vào năm 2008 là bao nhiêu?
+Generated Answer: Theo thông tin tôi tìm được, có nhiều xã ở Thổ Nhĩ Kỳ tên là Güllüce. Dân số của các xã này vào năm ...
+Ground Truth: Dân số của xã Güllüce vào năm 2008 là 184 người.
+GPT-4 Scores: Overall=4.25, Accuracy=4.00, Relevance=3.00
+Traditional Metrics: BLEU=0.013, ROUGE-L=0.157
+Retrieval Metrics: Precision=0.875, Recall=0.875, F1=0.875
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 8: Trò chơi Total War: Shogun 2: Fall of the Samurai khám phá bối cảnh lịch sử nào?
+Generated Answer: Total War: Shogun 2: Fall of the Samurai khám phá bối cảnh lịch sử cuộc nội chiến Mậu Thìn diễn ra t...
+Ground Truth: Trò chơi diễn ra trong thời kỳ Bakumatsu ở Nhật Bản, giữa thế kỷ 19, khi chính phủ Nhật Bản phải hiện đại hóa trước áp lực từ các cường quốc phương Tây.
+GPT-4 Scores: Overall=3.50, Accuracy=3.00, Relevance=4.00
+Traditional Metrics: BLEU=0.030, ROUGE-L=0.286
+Retrieval Metrics: Precision=0.818, Recall=0.072, F1=0.132
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 9: Palaeodytes sibiricus được miêu tả lần đầu vào năm nào?
+Generated Answer: Theo thông tin trong ngữ cảnh, Palaeodytes sibiricus được Ponomarenko miêu tả khoa học lần đầu tiên ...
+Ground Truth: Palaeodytes sibiricus được miêu tả lần đầu bởi Ponomarenko vào năm 1987.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.195, ROUGE-L=0.622
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 10: Rubia alaica được miêu tả khoa học lần đầu tiên vào năm nào?
+Generated Answer: Theo thông tin trong ngữ cảnh, Rubia alaica được Pachom. miêu tả khoa học lần đầu tiên vào năm 1987....
+Ground Truth: Rubia alaica được miêu tả khoa học lần đầu tiên vào năm 1987.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.501, ROUGE-L=0.809
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 11: Ascorhynchus colei được miêu tả khoa học vào năm nào?
+Generated Answer: Theo thông tin từ ngữ cảnh, Ascorhynchus colei được miêu tả khoa học vào năm 1943 bởi Hedgpeth....
+Ground Truth: Ascorhynchus colei được miêu tả khoa học năm 1943.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.331, ROUGE-L=0.649
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 12: Quercus trabutii thuộc họ thực vật nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Quercus trabutii thuộc họ Cử....
+Ground Truth: Quercus trabutii thuộc họ Cử.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.381, ROUGE-L=0.600
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 13: Ai là người đầu tiên miêu tả loài Zepherina xanthaspis?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài bọ cánh cứng Zepherina xanthaspis được Germar miêu tả k...
+Ground Truth: Germar là người đầu tiên miêu tả loài Zepherina xanthaspis vào năm 1824.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.126, ROUGE-L=0.407
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 14: Ai là người mô tả khoa học về loài Conchocarpus inopinatus?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài Conchocarpus inopinatus được Pirani mô tả khoa học lần ...
+Ground Truth: Loài Conchocarpus inopinatus được Pirani mô tả khoa học đầu tiên vào năm 1998.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.482, ROUGE-L=0.717
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 15: Agrotis canities thuộc họ nào?
+Generated Answer: Agrotis canities thuộc họ Noctuidae....
+Ground Truth: Agrotis canities thuộc họ Noctuidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=0.333, Recall=0.500, F1=0.400
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 16: Dân số của xã Lincoln ở quận Page, Iowa là bao nhiêu vào năm 2010?
+Generated Answer: Dân số của xã Lincoln thuộc quận Page, tiểu bang Iowa, Hoa Kỳ vào năm 2010 là 265 người....
+Ground Truth: Dân số của xã Lincoln vào năm 2010 là 265 người.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.426, ROUGE-L=0.744
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 17: Sphecodes tainoi được mô tả khoa học bởi ai và vào năm nào?
+Generated Answer: Theo thông tin trong ngữ cảnh, loài Sphecodes tainoi được mô tả khoa học bởi Engel vào năm 2006....
+Ground Truth: Sphecodes tainoi được Engel mô tả khoa học vào năm 2006.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.286, ROUGE-L=0.650
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 18: Thương Châu ở tỉnh nào thuộc Cộng hòa Nhân dân Trung Hoa?
+Generated Answer: Thương Châu là tên của hai đơn vị hành chính khác nhau ở Cộng hòa Nhân dân Trung Hoa, thuộc hai tỉnh...
+Ground Truth: Thương Châu là một địa cấp thị ở tỉnh Hà Bắc.
+GPT-4 Scores: Overall=4.25, Accuracy=4.00, Relevance=3.00
+Traditional Metrics: BLEU=0.063, ROUGE-L=0.325
+Retrieval Metrics: Precision=0.457, Recall=0.615, F1=0.525
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 19: Khi nào Esenbeckia panamensis được mô tả khoa học lần đầu?
+Generated Answer: Esenbeckia panamensis được T.S.Elias mô tả khoa học lần đầu tiên vào năm 1979....
+Ground Truth: Esenbeckia panamensis được mô tả khoa học lần đầu vào năm 1979.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.577, ROUGE-L=0.865
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 20: Rembercourt-sur-Mad nằm ở độ cao bao nhiêu mét trên mực nước biển?
+Generated Answer: Theo thông tin từ nguồn 1, Rembercourt-sur-Mad nằm ở khu vực có độ cao trung bình 192 mét trên mực n...
+Ground Truth: Rembercourt-sur-Mad nằm ở độ cao trung bình 192 mét trên mực nước biển.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.479, ROUGE-L=0.769
+Retrieval Metrics: Precision=0.970, Recall=0.744, F1=0.842
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 21: Monanthotaxis cauliflora được miêu tả lần đầu vào năm nào và bởi ai?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, *Monanthotaxis cauliflora* được mô tả khoa học lần đầu tiên ...
+Ground Truth: Monanthotaxis cauliflora được miêu tả lần đầu vào năm 1923 bởi Thomas Ford Chipp.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.189, ROUGE-L=0.548
+Retrieval Metrics: Precision=0.971, Recall=0.559, F1=0.710
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 22: Anpyramida thuộc họ nào?
+Generated Answer: Theo thông tin từ ngữ cảnh, Anpyramida là một chi bướm đêm thuộc họ Noctuidae....
+Ground Truth: Anpyramida thuộc họ Noctuidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.151, ROUGE-L=0.400
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 23: Dân số của xã Coe, Michigan năm 2010 là bao nhiêu người?
+Generated Answer: Dân số của xã Coe, Michigan vào năm 2010 là 3.079 người....
+Ground Truth: Dân số của xã Coe, Michigan năm 2010 là 3.079 người.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.783, ROUGE-L=0.941
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 24: Catasetum meeae được mô tả lần đầu vào năm nào?
+Generated Answer: Catasetum meeae được mô tả khoa học lần đầu tiên vào năm 1967....
+Ground Truth: Catasetum meeae được mô tả lần đầu vào năm 1967.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.484, ROUGE-L=0.839
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 25: Eulocastra latifasciata thuộc họ nào?
+Generated Answer: Dựa vào thông tin được cung cấp từ Nguồn 1 (Eulocastra), Eulocastra là một chi bướm đêm thuộc họ Noc...
+Ground Truth: Eulocastra latifasciata thuộc họ Noctuidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.067, ROUGE-L=0.218
+Retrieval Metrics: Precision=0.381, Recall=0.500, F1=0.432
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 26: Ornithogalum luschanii thuộc họ nào?
+Generated Answer: Dựa vào thông tin được cung cấp từ Nguồn 1, Ornithogalum luschanii thuộc họ Măng tây....
+Ground Truth: Nó thuộc họ Măng tây.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.201, ROUGE-L=0.500
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 27: Barou-en-Auge là một xã thuộc tỉnh nào ở Pháp?
+Generated Answer: Barou-en-Auge là một xã thuộc tỉnh Calvados, thuộc vùng Normandie ở tây bắc nước Pháp....
+Ground Truth: Barou-en-Auge thuộc tỉnh Calvados.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.065, ROUGE-L=0.485
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 28: Rhododendron davidii được miêu tả khoa học lần đầu vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Rhododendron davidii được Franch. miêu tả khoa học lần đầu t...
+Ground Truth: Năm 1886.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.036, ROUGE-L=0.167
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 29: Yên Mỹ có lịch sử hình thành như thế nào?
+Generated Answer: Huyện Yên Mỹ có lịch sử hình thành từ lâu đời, nằm ở vùng Bãi Sậy của Hưng Yên và đã trải qua nhiều ...
+Ground Truth: Yên Mỹ, trước đây gọi là Tiểu Lan Châu, là một làng cổ nằm ven sông Hồng. Làng đã hình thành từ lâu đời và có tên Yên Mỹ xuất hiện muộn nhất vào đầu thế kỷ 19. Làng được chuyển về thành phố Hà Nội vào tháng 5-1961.
+GPT-4 Scores: Overall=2.75, Accuracy=3.00, Relevance=2.00
+Traditional Metrics: BLEU=0.051, ROUGE-L=0.328
+Retrieval Metrics: Precision=0.513, Recall=0.049, F1=0.089
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 30: Pterolophia albovittata thuộc họ nào?
+Generated Answer: Theo thông tin được cung cấp từ Nguồn 1, Pterolophia albovittata là một loài bọ cánh cứng thuộc họ C...
+Ground Truth: Pterolophia albovittata thuộc họ Cerambycidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.129, ROUGE-L=0.353
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 31: Ulupınar có dân số bao nhiêu người vào năm 2011?
+Generated Answer: Theo thông tin tôi tìm được, có nhiều xã tên Ulupınar ở Thổ Nhĩ Kỳ và dân số của chúng vào năm 2011 ...
+Ground Truth: Dân số của Ulupınar vào năm 2011 là 141 người.
+GPT-4 Scores: Overall=3.75, Accuracy=3.00, Relevance=3.00
+Traditional Metrics: BLEU=0.015, ROUGE-L=0.205
+Retrieval Metrics: Precision=0.840, Recall=0.808, F1=0.824
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 32: Ai là người mô tả khoa học loài Cunila angustifolia lần đầu tiên và vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp, loài Cunila angustifolia được Benth. mô tả khoa học lần đầu tiên vào nă...
+Ground Truth: Loài Cunila angustifolia được Benth. mô tả khoa học lần đầu tiên vào năm 1834.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.688, ROUGE-L=0.824
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 33: Gibraltar xác nhận trường hợp COVID-19 đầu tiên vào ngày nào?
+Generated Answer: Thông tin bạn cung cấp về việc Gibraltar xác nhận ca nhiễm COVID-19 đầu tiên vào tháng 3/2020 không ...
+Ground Truth: Gibraltar xác nhận trường hợp COVID-19 đầu tiên vào ngày 4 tháng 3.
+GPT-4 Scores: Overall=2.75, Accuracy=2.00, Relevance=3.00
+Traditional Metrics: BLEU=0.017, ROUGE-L=0.116
+Retrieval Metrics: Precision=0.171, Recall=0.103, F1=0.128
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 34: Pero rocanaria thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Pero rocanaria là một loài bướm đêm thuộc họ Geometridae....
+Ground Truth: Pero rocanaria thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.160, ROUGE-L=0.429
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 35: Sameer Zuberi làm việc ở bệnh viện nào?
+Generated Answer: Theo thông tin tôi tìm được, Sameer Zuberi là bác sĩ tại Bệnh viện Hoàng gia cho Trẻ em bị Bệnh ở Gl...
+Ground Truth: Sameer Zuberi làm việc tại Bệnh viện Hoàng gia cho Trẻ em bị Bệnh ở Glasgow, Scotland.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.554, ROUGE-L=0.764
+Retrieval Metrics: Precision=0.925, Recall=0.378, F1=0.536
+Source: web_search
+--------------------------------------------------------------------------------
+
+Question 36: Sergipe là bang lớn hay nhỏ nhất của Brasil?
+Generated Answer: Theo thông tin được cung cấp từ nguồn 1, Sergipe là bang nhỏ nhất của Brasil....
+Ground Truth: Sergipe là bang nhỏ nhất của Brasil.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.389, ROUGE-L=0.600
+Retrieval Metrics: Precision=0.970, Recall=0.561, F1=0.711
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 37: Nomada placida thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Nomada placida là một loài Hymenoptera thuộc họ Apidae....
+Ground Truth: Nomada placida thuộc họ Apidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.170, ROUGE-L=0.462
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 38: Đèo Cà Đáo ở tỉnh nào của Việt Nam?
+Generated Answer: Thông tin bạn cung cấp về "Đèo Cà Đáo" không có trong các nguồn tài liệu tôi đang có. Do đó, tôi khô...
+Ground Truth: Đèo Cà Đáo nằm ở tỉnh Quảng Ngãi.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.019, ROUGE-L=0.213
+Retrieval Metrics: Precision=0.267, Recall=0.164, F1=0.203
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 39: Ai là người đầu tiên miêu tả khoa học loài Pleuranthodium comptum?
+Generated Answer: Theo thông tin trong ngữ cảnh, Karl Moritz Schumann là người đầu tiên mô tả khoa học loài Pleurantho...
+Ground Truth: Karl Moritz Schumann là người đầu tiên miêu tả khoa học loài Pleuranthodium comptum vào năm 1899.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.456, ROUGE-L=0.710
+Retrieval Metrics: Precision=0.971, Recall=0.452, F1=0.617
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 40: Oxira odontophora là loài gì?
+Generated Answer: Chào bạn,
+
+Dựa trên thông tin tôi tìm được, có một chi bướm đêm tên là *Oxira* thuộc họ Noctuidae (N...
+Ground Truth: Oxira odontophora là một loài bướm đêm trong họ Noctuidae.
+GPT-4 Scores: Overall=3.25, Accuracy=3.00, Relevance=3.00
+Traditional Metrics: BLEU=0.031, ROUGE-L=0.148
+Retrieval Metrics: Precision=0.440, Recall=0.733, F1=0.550
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 41: Embelia impressa được mô tả lần đầu vào năm nào?
+Generated Answer: Embelia impressa được mô tả khoa học lần đầu tiên vào năm 1936....
+Ground Truth: Năm 1936.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.071, ROUGE-L=0.286
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 42: Franche-Comté bao gồm những tỉnh nào?
+Generated Answer: Franche-Comté là một vùng cũ của Pháp, bao gồm các tỉnh sau: Doubs, Haute-Saône, Jura và Territoire ...
+Ground Truth: Franche-Comté gồm bốn tỉnh: Doubs, Haute-Saône, Jura và Territoire de Belfort.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.446, ROUGE-L=0.652
+Retrieval Metrics: Precision=0.968, Recall=0.201, F1=0.333
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 43: Phytoecia nigriventris thuộc họ nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Phytoecia nigriventris là một loài bọ cánh cứng trong họ Cer...
+Ground Truth: Phytoecia nigriventris thuộc họ Cerambycidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.054, ROUGE-L=0.294
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 44: Loài bọ Glipa subsinuata thuộc họ nào?
+Generated Answer: Loài bọ Glipa subsinuata thuộc họ Mordellidae....
+Ground Truth: Loài bọ Glipa subsinuata thuộc họ Mordellidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 45: Leandra ossaeoides thuộc họ nào?
+Generated Answer: Theo thông tin được cung cấp từ Nguồn 1, Leandra ossaeoides thuộc họ Mua....
+Ground Truth: Leandra ossaeoides thuộc họ Mua.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.301, ROUGE-L=0.500
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 46: Synchiropus stellatus được mô tả lần đầu vào năm nào và có chiều dài cơ thể lớn nhất là bao nhiêu centimet?
+Generated Answer: Thông tin bạn cung cấp về loài cá "Synchiropus stellatus" có một số điểm không chính xác so với thôn...
+Ground Truth: Loài Synchiropus stellatus được mô tả lần đầu vào năm 1963 và có chiều dài cơ thể lớn nhất ghi nhận là 7,5 cm.
+GPT-4 Scores: Overall=2.25, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.007, ROUGE-L=0.180
+Retrieval Metrics: Precision=0.393, Recall=0.079, F1=0.132
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 47: Ai là người miêu tả khoa học loài Dominikia scopula?
+Generated Answer: Theo Nguồn 1, loài Dominikia scopula được Lesne miêu tả khoa học vào năm 1923....
+Ground Truth: Loài Dominikia scopula được Lesne miêu tả khoa học vào năm 1923.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.740, ROUGE-L=0.895
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 48: Dân số của thị trấn Marathon, Wisconsin là bao nhiêu người vào năm 2010?
+Generated Answer: Dân số của thị trấn Marathon, Wisconsin vào năm 2010 là 1.034 người....
+Ground Truth: Dân số của thị trấn Marathon, Wisconsin vào năm 2010 là 1.034 người.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 49: Bellulia nilssoni thuộc họ bướm nào và được tìm thấy ở đâu?
+Generated Answer: Bellulia nilssoni là một loài bướm đêm thuộc họ Erebidae và được tìm thấy ở miền nam Thái Lan....
+Ground Truth: Bellulia nilssoni thuộc họ Erebidae và được tìm thấy ở miền nam Thái Lan.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.655, ROUGE-L=0.818
+Retrieval Metrics: Precision=0.973, Recall=0.655, F1=0.783
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 50: Matt Dallas nổi tiếng với vai diễn nào trên truyền hình?
+Generated Answer: Thông tin bạn cung cấp về Matt Dallas không có trong các nguồn tài liệu tôi được cung cấp. Vì vậy, t...
+Ground Truth: Anh nổi tiếng với vai diễn trong sê-ri Kyle XY trên đài ABC.
+GPT-4 Scores: Overall=1.50, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.006, ROUGE-L=0.182
+Retrieval Metrics: Precision=0.486, Recall=0.116, F1=0.188
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 51: Tổng công ty Xây dựng Trường Sơn được thành lập vào năm nào và trên cơ sở nào?
+Generated Answer: Tổng công ty Xây dựng Trường Sơn, tên quân sự là Binh đoàn 12, được thành lập vào tháng 10 năm 1977....
+Ground Truth: Tổng công ty Xây dựng Trường Sơn được thành lập vào tháng 10 năm 1977, trên cơ sở lực lượng chủ yếu của Bộ đội Trường Sơn.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.541, ROUGE-L=0.818
+Retrieval Metrics: Precision=0.971, Recall=0.050, F1=0.094
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 52: Vuốt dài Grimwood sống ở những quốc gia nào?
+Generated Answer: Vuốt dài Grimwood được tìm thấy ở Angola, Cộng hòa Dân chủ Congo và Zambia....
+Ground Truth: Vuốt dài Grimwood được tìm thấy ở Angola, Cộng hòa Dân chủ Congo và Zambia.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=0.972, Recall=0.565, F1=0.714
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 53: Ai là người miêu tả loài Euoplos tasmanicus và vào năm nào?
+Generated Answer: Vernon Victor Hickman là người đã miêu tả loài nhện Euoplos tasmanicus vào năm 1928....
+Ground Truth: Loài Euoplos tasmanicus được Vernon Victor Hickman miêu tả vào năm 1928.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.276, ROUGE-L=0.611
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 54: Lepanthes proctorii được miêu tả lần đầu bởi ai và vào năm nào?
+Generated Answer: Lepanthes proctorii được Garay & Hespenh. mô tả khoa học lần đầu tiên vào năm 1968....
+Ground Truth: Lepanthes proctorii được miêu tả lần đầu bởi Garay & Hespenh. vào năm 1968.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.362, ROUGE-L=0.632
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 55: Letojanni nằm ở tỉnh nào của Italia?
+Generated Answer: Letojanni nằm ở tỉnh Messina, thuộc vùng Sicilia của Italia....
+Ground Truth: Letojanni nằm ở tỉnh Messina.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.332, ROUGE-L=0.600
+Retrieval Metrics: Precision=0.972, Recall=0.515, F1=0.673
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 56: Erioptera luteiclavata thuộc họ nào?
+Generated Answer: Theo thông tin bạn cung cấp, Erioptera luteiclavata là một loài ruồi trong họ Limoniidae....
+Ground Truth: Erioptera luteiclavata thuộc họ Limoniidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.072, ROUGE-L=0.296
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 57: Keller thuộc huyện nào tại Thổ Nhĩ Kỳ?
+Generated Answer: Theo thông tin tôi tìm được, có nhiều xã tên Keller ở Thổ Nhĩ Kỳ, và chúng thuộc các huyện khác nhau...
+Ground Truth: Keller thuộc huyện Akçadağ.
+GPT-4 Scores: Overall=4.25, Accuracy=4.00, Relevance=3.00
+Traditional Metrics: BLEU=0.004, ROUGE-L=0.165
+Retrieval Metrics: Precision=0.840, Recall=0.840, F1=0.840
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 58: Xã Troy có dân số bao nhiêu người vào năm 2010?
+Generated Answer: Chào bạn, có vẻ như có nhiều xã tên là Troy ở các tiểu bang khác nhau của Hoa Kỳ. Dưới đây là dân số...
+Ground Truth: Xã Troy có dân số 1.235 người vào năm 2010.
+GPT-4 Scores: Overall=2.75, Accuracy=3.00, Relevance=2.00
+Traditional Metrics: BLEU=0.017, ROUGE-L=0.189
+Retrieval Metrics: Precision=0.700, Recall=0.750, F1=0.724
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 59: Nertera dichondrifolia được mô tả khoa học lần đầu vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Nertera dichondrifolia được mô tả khoa học lần đầu tiên vào ...
+Ground Truth: Nertera dichondrifolia được mô tả khoa học lần đầu vào năm 1852.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.312, ROUGE-L=0.604
+Retrieval Metrics: Precision=0.968, Recall=0.968, F1=0.968
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 60: Thược dược có nguồn gốc từ đâu?
+Generated Answer: Theo thông tin tôi tìm được, có hai loại thược dược được đề cập:
+
+*   **Thược dược (Dahlia):** Có ng...
+Ground Truth: Thược dược có nguồn gốc ở México.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=4.00
+Traditional Metrics: BLEU=0.022, ROUGE-L=0.150
+Retrieval Metrics: Precision=0.974, Recall=0.137, F1=0.239
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 61: Bảo tàng Vùng Zawkrzeńska ở Mława mở cửa vào những ngày nào trong tuần?
+Generated Answer: Theo thông tin được cung cấp, Bảo tàng Vùng Zawkrzeńska ở Mława mở cửa tất cả các ngày trong tuần tr...
+Ground Truth: Bảo tàng mở cửa tất cả các ngày trong tuần trừ Chủ nhật và thứ Hai.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.533, ROUGE-L=0.774
+Retrieval Metrics: Precision=0.947, Recall=0.196, F1=0.324
+Source: web_search
+--------------------------------------------------------------------------------
+
+Question 62: Ai là người đã miêu tả loài Notiophygus subfuscus?
+Generated Answer: Theo thông tin được cung cấp từ Nguồn 1, loài bọ cánh cứng Notiophygus subfuscus được John miêu tả k...
+Ground Truth: John là người đã miêu tả loài Notiophygus subfuscus vào năm 1935.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.129, ROUGE-L=0.440
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 63: Herrngiersdorf thuộc huyện nào ở Đức?
+Generated Answer: Herrngiersdorf là một đô thị thuộc huyện Kelheim, bang Bayern, Đức....
+Ground Truth: Herrngiersdorf thuộc huyện Kelheim, bang Bayern, Đức.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.612, ROUGE-L=0.818
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 64: Plesiophrictus nilagiriensis thuộc họ nào?
+Generated Answer: Plesiophrictus nilagiriensis thuộc họ Theraphosidae....
+Ground Truth: Loài này thuộc họ Theraphosidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.508, ROUGE-L=0.571
+Retrieval Metrics: Precision=0.962, Recall=0.926, F1=0.943
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 65: Ai là người đầu tiên mô tả khoa học loài Licuala whitmorei?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài Licuala whitmorei được Saw mô tả khoa học lần đầu tiên ...
+Ground Truth: Loài Licuala whitmorei được Saw mô tả khoa học đầu tiên vào năm 1997.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.482, ROUGE-L=0.717
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 66: Lepanthes octocornuta được mô tả khoa học lần đầu tiên vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Lepanthes octocornuta được Luer mô tả khoa học lần đầu tiên ...
+Ground Truth: Năm 2002.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.037, ROUGE-L=0.171
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 67: Exacum tetragonum được mô tả lần đầu vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Exacum tetragonum được Roxb. mô tả khoa học lần đầu tiên vào...
+Ground Truth: Exacum tetragonum được mô tả lần đầu vào năm 1820.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.159, ROUGE-L=0.578
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 68: Telophorus bocagei thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Telophorus bocagei là một loài chim trong họ Malaconotidae....
+Ground Truth: Telophorus bocagei thuộc họ Malaconotidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.072, ROUGE-L=0.320
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 69: Heligehalli thuộc huyện nào ở Ấn Độ?
+Generated Answer: Theo thông tin tôi tìm được, có hai làng cùng tên Heligehalli ở Ấn Độ:
+
+*   Một làng thuộc tehsil Ma...
+Ground Truth: Heligehalli thuộc huyện Ramanagara.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.042, ROUGE-L=0.167
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 70: Dân số của Springville vào năm 2010 là bao nhiêu?
+Generated Answer: Chào bạn, có vẻ như có nhiều địa điểm tên là Springville ở Hoa Kỳ. Dưới đây là dân số của các địa đi...
+Ground Truth: Dân số của Springville vào năm 2010 là 1.263 người.
+GPT-4 Scores: Overall=3.75, Accuracy=4.00, Relevance=3.00
+Traditional Metrics: BLEU=0.014, ROUGE-L=0.201
+Retrieval Metrics: Precision=0.571, Recall=0.615, F1=0.593
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 71: Trần Văn Kiên hiện đang thi đấu cho câu lạc bộ nào?
+Generated Answer: Theo thông tin tôi tìm được, Trần Văn Kiên hiện đang thi đấu cho câu lạc bộ Thép Xanh Nam Định ở vị ...
+Ground Truth: Trần Văn Kiên hiện đang thi đấu cho câu lạc bộ Hà Nội.
+GPT-4 Scores: Overall=3.50, Accuracy=2.00, Relevance=4.00
+Traditional Metrics: BLEU=0.339, ROUGE-L=0.633
+Retrieval Metrics: Precision=0.911, Recall=0.186, F1=0.308
+Source: web_search
+--------------------------------------------------------------------------------
+
+Question 72: Aristida purpurea được mô tả khoa học lần đầu tiên vào năm nào?
+Generated Answer: Aristida purpurea được mô tả khoa học lần đầu tiên vào năm 1835, và được công bố vào năm 1837....
+Ground Truth: Aristida purpurea được mô tả khoa học lần đầu tiên vào năm 1835.
+GPT-4 Scores: Overall=4.50, Accuracy=4.00, Relevance=5.00
+Traditional Metrics: BLEU=0.570, ROUGE-L=0.783
+Retrieval Metrics: Precision=0.971, Recall=0.791, F1=0.872
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 73: Alvania subsoluta thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Alvania subsoluta là một loài ốc biển nhỏ thuộc họ Rissoidae....
+Ground Truth: Alvania subsoluta thuộc họ Rissoidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.151, ROUGE-L=0.414
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 74: Loài Aderusincertae anthiciceps được miêu tả bởi ai và vào năm nào?
+Generated Answer: Loài Aderusincertae anthiciceps được Lea miêu tả khoa học vào năm 1917....
+Ground Truth: Loài Aderusincertae anthiciceps được miêu tả bởi Lea vào năm 1917.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.435, ROUGE-L=0.788
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 75: Todiramphus funebris thuộc họ nào?
+Generated Answer: Theo thông tin bạn cung cấp, Todiramphus funebris là một loài chim thuộc họ Alcedinidae....
+Ground Truth: Todiramphus funebris thuộc họ Alcedinidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.170, ROUGE-L=0.444
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 76: Có bao nhiêu phần trăm loài động vật có vú được biết đến là có quan hệ hôn nhân một vợ một chồng?
+Generated Answer: Chào bạn, theo những thông tin tôi tìm được trong các tài liệu bạn cung cấp, không có thông tin cụ t...
+Ground Truth: Chỉ có khoảng 3% đến 5% trong số các loài động vật có vú được biết đến là có quan hệ một vợ một chồng.
+GPT-4 Scores: Overall=1.50, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.054, ROUGE-L=0.280
+Retrieval Metrics: Precision=0.538, Recall=0.069, F1=0.122
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 77: Hwasa đã phát hành đĩa đơn đầu tay vào thời gian nào?
+Generated Answer: Thông tin bạn cung cấp về Hwasa (tên thật Ahn Hye-jin) rất chi tiết và chính xác. Tuy nhiên, trong c...
+Ground Truth: Hwasa đã phát hành đĩa đơn chính chủ đầu tay của mình vào quý 1 năm 2019.
+GPT-4 Scores: Overall=1.50, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.004, ROUGE-L=0.175
+Retrieval Metrics: Precision=0.286, Recall=0.154, F1=0.200
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 78: 13248 Fornasier là gì?
+Generated Answer: Theo thông tin tôi tìm được, 13248 Fornasier là một tiểu hành tinh vành đai chính....
+Ground Truth: 13248 Fornasier là một tiểu hành tinh thuộc vành đai chính, được phát hiện vào năm 1998.
+GPT-4 Scores: Overall=4.50, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.406, ROUGE-L=0.588
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 79: Ai là người mô tả khoa học loài Lejeunea trigonostipa lần đầu tiên?
+Generated Answer: Tôi xin lỗi, không có thông tin nào trong các nguồn được cung cấp về người đã mô tả khoa học loài Le...
+Ground Truth: Loài Lejeunea trigonostipa được Spruce mô tả khoa học lần đầu tiên vào năm 1884.
+GPT-4 Scores: Overall=2.25, Accuracy=1.00, Relevance=3.00
+Traditional Metrics: BLEU=0.156, ROUGE-L=0.400
+Retrieval Metrics: Precision=0.857, Recall=0.857, F1=0.857
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 80: NGC 387 thuộc chòm sao nào?
+Generated Answer: Rất tiếc, không có thông tin nào về NGC 387 trong các nguồn tài liệu được cung cấp. Vì vậy, tôi khôn...
+Ground Truth: NGC 387 thuộc chòm sao Song Ngư.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.035, ROUGE-L=0.241
+Retrieval Metrics: Precision=0.333, Recall=0.224, F1=0.268
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 81: Periclitena melancholica thuộc họ nào?
+Generated Answer: Theo thông tin trong ngữ cảnh, Periclitena melancholica là một loài bọ cánh cứng thuộc họ Chrysomeli...
+Ground Truth: Periclitena melancholica thuộc họ Chrysomelidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.151, ROUGE-L=0.400
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 82: Nhân vật nào là người dẫn đầu trong đội chơi Gantz sau này?
+Generated Answer: Theo thông tin được cung cấp, nhân vật chính của truyện Gantz là Kei Kurono. Tuy nhiên, đoạn trích n...
+Ground Truth: Kei Kurono trở thành lãnh đạo của đội chơi Gantz.
+GPT-4 Scores: Overall=3.00, Accuracy=3.00, Relevance=3.00
+Traditional Metrics: BLEU=0.022, ROUGE-L=0.194
+Retrieval Metrics: Precision=0.864, Recall=0.038, F1=0.073
+Source: web_search
+--------------------------------------------------------------------------------
+
+Question 83: Ai là người đã mô tả khoa học loài Hydnora africana lần đầu tiên?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài Hydnora africana được Thunb. mô tả khoa học lần đầu tiê...
+Ground Truth: Loài Hydnora africana được Thunb. mô tả khoa học lần đầu tiên vào năm 1775.
+GPT-4 Scores: Overall=4.50, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.607, ROUGE-L=0.764
+Retrieval Metrics: Precision=0.967, Recall=0.967, F1=0.967
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 84: Oberon được phát triển tại đâu và bởi ai?
+Generated Answer: Có hai thông tin về "Oberon" trong các nguồn được cung cấp:
+
+1.  **Oberon (vệ tinh):** Vệ tinh này đ...
+Ground Truth: Oberon được phát triển tại ETH Zurich ở Thụy Sĩ bởi Niklaus Wirth.
+GPT-4 Scores: Overall=1.75, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.004, ROUGE-L=0.155
+Retrieval Metrics: Precision=0.429, Recall=0.070, F1=0.120
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 85: Castelletto d'Orba nằm cách Torino bao xa?
+Generated Answer: Castelletto d'Orba nằm cách Torino khoảng 90 km về phía đông nam....
+Ground Truth: Castelletto d'Orba nằm cách khoảng 90 km về phía đông nam của Torino.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.647, ROUGE-L=0.889
+Retrieval Metrics: Precision=0.970, Recall=0.416, F1=0.582
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 86: Cách nào Zygmunt I Stary đã tăng cường quyền lực của Ba Lan trong thời gian cai trị?
+Generated Answer: Thông tin được cung cấp không đề cập trực tiếp đến những hành động cụ thể của Zygmunt I Stary trong ...
+Ground Truth: Zygmunt I Stary đã tăng cường quyền lực của Ba Lan thông qua việc thiết lập quyền bá chủ đối với Công quốc Prussia, sáp nhập công quốc Mazovia vào liên bang Ba Lan, và tiến hành cải cách thuế khóa để củng cố ngân khố quốc gia.
+GPT-4 Scores: Overall=2.50, Accuracy=2.00, Relevance=2.00
+Traditional Metrics: BLEU=0.021, ROUGE-L=0.202
+Retrieval Metrics: Precision=0.744, Recall=0.029, F1=0.055
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 87: Campanula tatrae được mô tả lần đầu tiên vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Campanula tatrae được Borbás mô tả khoa học lần đầu tiên vào...
+Ground Truth: Năm 1902.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.037, ROUGE-L=0.167
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 88: Dysstroma omicronata thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Dysstroma omicronata thuộc họ Geometridae (họ Bướm đêm)....
+Ground Truth: Dysstroma omicronata thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.210, ROUGE-L=0.500
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 89: Praemallaspis argodi thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Praemallaspis argodi là một loài bọ cánh cứng thuộc họ Cerambycidae....
+Ground Truth: Praemallaspis argodi thuộc họ Cerambycidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.151, ROUGE-L=0.400
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 90: Yaylacık thuộc huyện nào ở Thổ Nhĩ Kỳ?
+Generated Answer: Yaylacık là tên của một số xã thuộc nhiều huyện khác nhau ở Thổ Nhĩ Kỳ, cụ thể là:
+
+*   Huyện Boyaba...
+Ground Truth: Yaylacık thuộc huyện Balya.
+GPT-4 Scores: Overall=3.00, Accuracy=2.00, Relevance=2.00
+Traditional Metrics: BLEU=0.005, ROUGE-L=0.179
+Retrieval Metrics: Precision=0.769, Recall=0.833, F1=0.800
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 91: Fouzia El Bayed có vai trò gì trong việc ủng hộ quyền phụ nữ tại Maroc?
+Generated Answer: Theo thông tin được cung cấp, Fouzia El Bayed là một người ủng hộ quyền phụ nữ Ma-rốc. Bà còn là chủ...
+Ground Truth: Fouzia El Bayed là một người ủng hộ quyền phụ nữ, cựu thành viên Quốc hội Maroc và là chủ tịch đầu tiên của chương Maroc Mạng lưới quốc tế của phụ nữ tự do.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.620, ROUGE-L=0.774
+Retrieval Metrics: Precision=0.971, Recall=0.708, F1=0.819
+Source: web_search
+--------------------------------------------------------------------------------
+
+Question 92: Coniopteryx simplicior thuộc bộ nào?
+Generated Answer: Theo thông tin trong Nguồn 1, Coniopteryx simplicior thuộc bộ Neuroptera (bộ Cánh gân)....
+Ground Truth: Coniopteryx simplicior thuộc bộ Neuroptera.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.210, ROUGE-L=0.480
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 93: Liotella aupouria thuộc họ nào?
+Generated Answer: Liotella aupouria thuộc họ Skeneidae....
+Ground Truth: Liotella aupouria thuộc họ Skeneidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=0.971, Recall=0.895, F1=0.932
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 94: Ai là đội vô địch trong Cúp bóng đá Phần Lan năm 1955?
+Generated Answer: Chào bạn, rất tiếc là trong những thông tin tôi được cung cấp, không có thông tin chi tiết về giải đ...
+Ground Truth: Đội vô địch là Valkeakosken Haka.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.004, ROUGE-L=0.051
+Retrieval Metrics: Precision=0.400, Recall=0.132, F1=0.198
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 95: Eunice Brookman-Amissah đã từng đảm nhận vị trí nào trong chính phủ Ghana?
+Generated Answer: Theo thông tin được cung cấp, Eunice Brookman-Amissah từng là Bộ trưởng Bộ Y tế của Ghana và Đại sứ ...
+Ground Truth: Bà đã từng là Bộ trưởng Bộ Y tế Ghana.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.188, ROUGE-L=0.377
+Retrieval Metrics: Precision=0.071, Recall=0.048, F1=0.057
+Source: web_search
+--------------------------------------------------------------------------------
+
+Question 96: Callargyra bayni thuộc họ nào?
+Generated Answer: Rất tiếc, tôi không tìm thấy thông tin về "Callargyra bayni" trong các nguồn tài liệu được cung cấp....
+Ground Truth: Callargyra bayni thuộc họ Noctuidae.
+GPT-4 Scores: Overall=2.75, Accuracy=2.00, Relevance=3.00
+Traditional Metrics: BLEU=0.010, ROUGE-L=0.083
+Retrieval Metrics: Precision=0.389, Recall=0.467, F1=0.424
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 97: Apocryptus lieftincki thuộc họ nào?
+Generated Answer: Rất tiếc, trong các nguồn thông tin được cung cấp, không có thông tin nào về loài "Apocryptus liefti...
+Ground Truth: Apocryptus lieftincki thuộc họ Ichneumonidae.
+GPT-4 Scores: Overall=2.25, Accuracy=1.00, Relevance=3.00
+Traditional Metrics: BLEU=0.015, ROUGE-L=0.179
+Retrieval Metrics: Precision=0.273, Recall=0.400, F1=0.324
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 98: Clarin ở tỉnh Misamis Occidental có bao nhiêu barangay?
+Generated Answer: Theo thông tin từ nguồn 1, Clarin ở tỉnh Misamis Occidental được chia thành 29 barangay....
+Ground Truth: Clarin được chia ra 29 barangay.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.070, ROUGE-L=0.400
+Retrieval Metrics: Precision=0.973, Recall=0.590, F1=0.735
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 99: Tomato Torrent yêu cầu hệ điều hành nào để chạy?
+Generated Answer: Tomato Torrent yêu cầu hệ điều hành Mac OS X 10.2 hoặc mới hơn để chạy bạn nhé....
+Ground Truth: Tomato Torrent yêu cầu hệ điều hành Mac OS X 10.2 hoặc mới hơn để chạy.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.840, ROUGE-L=0.941
+Retrieval Metrics: Precision=0.970, Recall=0.640, F1=0.771
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 100: Dân số của Caney City vào năm 2010 là bao nhiêu?
+Generated Answer: Dân số của Caney City, Texas vào năm 2010 là 217 người....
+Ground Truth: Dân số của Caney City vào năm 2010 là 217 người.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.700, ROUGE-L=0.970
+Retrieval Metrics: Precision=0.964, Recall=0.844, F1=0.900
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 101: Sân bay Sumbe nằm ở đâu?
+Generated Answer: Thông tin bạn cung cấp về sân bay Sumbe (Sân bay N'Gunza) không có trong các nguồn tài liệu tôi được...
+Ground Truth: Sân bay Sumbe nằm ở thành phố Sumbe, tỉnh Cuanza Sul, Angola.
+GPT-4 Scores: Overall=2.75, Accuracy=2.00, Relevance=3.00
+Traditional Metrics: BLEU=0.068, ROUGE-L=0.243
+Retrieval Metrics: Precision=0.156, Recall=0.185, F1=0.169
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 102: Rinorea virgata được miêu tả khoa học lần đầu vào năm nào?
+Generated Answer: Rinorea virgata được miêu tả khoa học lần đầu vào năm 1891....
+Ground Truth: Rinorea virgata được miêu tả khoa học lần đầu vào năm 1891.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 103: Mesalia opalina thuộc họ nào?
+Generated Answer: Mesalia opalina thuộc họ Turritellidae....
+Ground Truth: Mesalia opalina thuộc họ Turritellidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 104: Scaphochlamys hasta được miêu tả khoa học lần đầu vào năm nào?
+Generated Answer: Thông tin được cung cấp không cho biết năm Scaphochlamys hasta được mô tả khoa học lần đầu. Tuy nhiê...
+Ground Truth: Scaphochlamys hasta được miêu tả khoa học đầu tiên vào năm 2017.
+GPT-4 Scores: Overall=2.50, Accuracy=2.00, Relevance=2.00
+Traditional Metrics: BLEU=0.025, ROUGE-L=0.222
+Retrieval Metrics: Precision=0.963, Recall=0.061, F1=0.115
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 105: Hoa hậu Hàn Quốc lần thứ 65 được tổ chức vào ngày nào?
+Generated Answer: Thông tin bạn cung cấp về cuộc thi Hoa hậu Hàn Quốc lần thứ 65 rất thú vị, tuy nhiên, các nguồn tài ...
+Ground Truth: Cuộc thi Hoa hậu Hàn Quốc lần thứ 65 được tổ chức và ghi hình vào ngày 16 tháng 11 năm 2021.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.076, ROUGE-L=0.287
+Retrieval Metrics: Precision=0.462, Recall=0.161, F1=0.238
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 106: Eugenia magnifolia được mô tả khoa học lần đầu vào năm nào?
+Generated Answer: Eugenia magnifolia được mô tả khoa học lần đầu tiên vào năm 1893....
+Ground Truth: Eugenia magnifolia được mô tả khoa học lần đầu vào năm 1893.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.783, ROUGE-L=0.941
+Retrieval Metrics: Precision=0.971, Recall=1.000, F1=0.985
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 107: Ai là người đầu tiên miêu tả khoa học loài Garovaglia angustifolia?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài Garovaglia angustifolia được Mitt. miêu tả khoa học đầu...
+Ground Truth: Loài Garovaglia angustifolia được Mitt. miêu tả khoa học đầu tiên năm 1868.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.482, ROUGE-L=0.706
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 108: Psaliodes seitzi thuộc họ nào?
+Generated Answer: Theo Nguồn 1, *Psaliodes seitzi* là một loài bướm đêm thuộc họ Geometridae....
+Ground Truth: Psaliodes seitzi thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.170, ROUGE-L=0.500
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 109: Katrancı thuộc huyện nào của Thổ Nhĩ Kỳ?
+Generated Answer: Theo thông tin tôi có được, có nhiều xã tên Katrancı ở Thổ Nhĩ Kỳ, và chúng thuộc các huyện sau:
+
+* ...
+Ground Truth: Katrancı thuộc huyện Eskil, tỉnh Aksaray, Thổ Nhĩ Kỳ.
+GPT-4 Scores: Overall=4.25, Accuracy=4.00, Relevance=3.00
+Traditional Metrics: BLEU=0.018, ROUGE-L=0.274
+Retrieval Metrics: Precision=0.769, Recall=0.833, F1=0.800
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 110: Deinypena morosa thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Deinypena là một chi bướm đêm thuộc họ Noctuidae. Vì vậy, Deinypena moros...
+Ground Truth: Deinypena morosa thuộc họ Noctuidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.103, ROUGE-L=0.324
+Retrieval Metrics: Precision=0.450, Recall=0.600, F1=0.514
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 111: Diện tích của xã Lạc Lương là bao nhiêu?
+Generated Answer: Diện tích của xã Lạc Lương là 32,41 km²....
+Ground Truth: Diện tích của xã Lạc Lương là 32,41 km².
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 112: Nguyễn Đăng Lành được truy tặng danh hiệu gì và vào năm nào?
+Generated Answer: Nguyễn Đăng Lành được truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân. Nguồn cung cấp không...
+Ground Truth: Nguyễn Đăng Lành được truy tặng danh hiệu Anh hùng lực lượng vũ trang nhân dân vào ngày 25 tháng 3 năm 1997.
+GPT-4 Scores: Overall=4.25, Accuracy=4.00, Relevance=5.00
+Traditional Metrics: BLEU=0.523, ROUGE-L=0.691
+Retrieval Metrics: Precision=0.974, Recall=0.134, F1=0.236
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 113: Dân số của xã Perry trong năm 2010 là bao nhiêu?
+Generated Answer: Chào bạn, có vẻ như có nhiều xã Perry khác nhau ở Hoa Kỳ. Để trả lời chính xác câu hỏi của bạn, tôi ...
+Ground Truth: Dân số của xã Perry trong năm 2010 là 934 người.
+GPT-4 Scores: Overall=4.25, Accuracy=4.00, Relevance=3.00
+Traditional Metrics: BLEU=0.009, ROUGE-L=0.136
+Retrieval Metrics: Precision=0.828, Recall=0.857, F1=0.842
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 114: Cầu Yeongdong nối hai quận nào ở Seoul?
+Generated Answer: Cầu Yeongdong ở Seoul nối hai quận Gwangjin và Seongdong đến Gangnam, bao gồm Cheongdam-dong và COEX...
+Ground Truth: Cầu Yeongdong nối hai quận Gwangjin và Seongdong đến Gangnam.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.388, ROUGE-L=0.743
+Retrieval Metrics: Precision=0.973, Recall=0.621, F1=0.758
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 115: Ai là người đầu tiên miêu tả khoa học loài Wurmbea capensis?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài Wurmbea capensis được Thunb. miêu tả khoa học đầu tiên ...
+Ground Truth: Loài Wurmbea capensis được Thunb. miêu tả khoa học đầu tiên năm 1781.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.482, ROUGE-L=0.706
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 116: Citharexylum endlichii được mô tả lần đầu vào năm nào?
+Generated Answer: Theo Nguồn 1, Citharexylum endlichii được mô tả khoa học lần đầu tiên vào năm 1934 bởi Moldenke....
+Ground Truth: Citharexylum endlichii được mô tả lần đầu vào năm 1934.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.270, ROUGE-L=0.684
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 117: Ceropegia conrathii được mô tả khoa học lần đầu tiên vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp, Ceropegia conrathii được mô tả khoa học lần đầu tiên vào năm 1905....
+Ground Truth: Ceropegia conrathii được mô tả khoa học lần đầu tiên vào năm 1905.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.640, ROUGE-L=0.800
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 118: Lasioglossum ciliatum được mô tả khoa học vào năm nào?
+Generated Answer: Lasioglossum ciliatum được mô tả khoa học vào năm 1998....
+Ground Truth: Lasioglossum ciliatum được mô tả khoa học vào năm 1998.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 119: Brachyglottis forsteri được mô tả khoa học lần đầu vào năm nào?
+Generated Answer: Brachyglottis forsteri được mô tả khoa học lần đầu vào năm 1836....
+Ground Truth: Brachyglottis forsteri được mô tả khoa học lần đầu vào năm 1836.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 120: Metria là gì?
+Generated Answer: Metria là một chi bướm đêm thuộc họ Erebidae. Các loài thuộc chi này bao gồm:
+
+*   Metria amella Gue...
+Ground Truth: Metria là một chi bướm đêm thuộc họ Erebidae.
+GPT-4 Scores: Overall=4.50, Accuracy=4.00, Relevance=4.00
+Traditional Metrics: BLEU=0.158, ROUGE-L=0.329
+Retrieval Metrics: Precision=0.964, Recall=0.818, F1=0.885
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 121: Ai là người đã miêu tả loài Sericosura cochleifovea?
+Generated Answer: Theo thông tin được cung cấp từ Nguồn 1, loài nhện biển Sericosura cochleifovea được miêu tả khoa họ...
+Ground Truth: Loài Sericosura cochleifovea được miêu tả khoa học bởi Child vào năm 1989.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.288, ROUGE-L=0.538
+Retrieval Metrics: Precision=0.967, Recall=0.509, F1=0.667
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 122: Amyloza chiếm bao nhiêu phần trăm khối lượng của tinh bột?
+Generated Answer: Amyloza chiếm khoảng 30% khối lượng tinh bột, nhưng tỷ lệ này có thể thay đổi tùy theo loài thực vật...
+Ground Truth: Amyloza chiếm khoảng 30% khối lượng tinh bột, tùy theo loài thực vật.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.489, ROUGE-L=0.772
+Retrieval Metrics: Precision=0.962, Recall=0.156, F1=0.269
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 123: Tiszaroff thuộc hạt nào ở Hungary?
+Generated Answer: Tiszaroff thuộc hạt Jász-Nagykun-Szolnok của Hungary....
+Ground Truth: Tiszaroff thuộc hạt Jász-Nagykun-Szolnok ở Hungary.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.489, ROUGE-L=0.909
+Retrieval Metrics: Precision=0.966, Recall=0.933, F1=0.949
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 124: Ai là nhà vô địch của Giải quần vợt Úc Mở rộng 1982 ở nội dung Đơn nam?
+Generated Answer: Chào bạn, rất tiếc là thông tin trong các nguồn tài liệu hiện tại không đề cập đến thời gian cụ thể ...
+Ground Truth: Nhà vô địch là Johan Kriek.
+GPT-4 Scores: Overall=1.50, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.004, ROUGE-L=0.048
+Retrieval Metrics: Precision=0.406, Recall=0.094, F1=0.152
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 125: Bonansa là một đô thị thuộc tỉnh nào của Tây Ban Nha?
+Generated Answer: Bonansa là một đô thị thuộc tỉnh Huesca, Aragon, Tây Ban Nha....
+Ground Truth: Bonansa là một đô thị trong tỉnh Huesca, Aragon.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.423, ROUGE-L=0.720
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 126: Quá trình thu hoạch ảnh hưởng như thế nào đến sản xuất nông nghiệp?
+Generated Answer: Quá trình thu hoạch đóng vai trò quan trọng trong sản xuất nông nghiệp, ảnh hưởng đến nhiều khía cạn...
+Ground Truth: Quá trình thu hoạch đánh dấu sự kết thúc của một vụ mùa và ảnh hưởng lớn đến sản xuất nông nghiệp, khi nông sản được thu gom, làm sạch, phân loại và chuyển đến thị trường, từ đó quyết định lợi nhuận và sự phát triển của người nông dân.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.045, ROUGE-L=0.206
+Retrieval Metrics: Precision=0.976, Recall=0.122, F1=0.217
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 127: Sân bay quốc tế Rajiv Gandhi được xây dựng cách thành phố Hyderabad bao xa?
+Generated Answer: Sân bay quốc tế Rajiv Gandhi được xây dựng gần Shamshabad, cách thành phố Hyderabad khoảng 30 km....
+Ground Truth: Sân bay quốc tế Rajiv Gandhi được xây dựng gần Shamshabad, cách thành phố Hyderabad khoảng 30 km.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=0.972, Recall=0.177, F1=0.299
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 128: Dân số của Adamsville, Ohio vào năm 2010 là bao nhiêu người?
+Generated Answer: Theo thông tin tôi tìm được, dân số của làng Adamsville, Ohio vào năm 2010 là 114 người....
+Ground Truth: Dân số của Adamsville, Ohio vào năm 2010 là 114 người.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.500, ROUGE-L=0.744
+Retrieval Metrics: Precision=0.964, Recall=0.871, F1=0.915
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 129: Augochlora rightmyerae được mô tả bởi ai và vào năm nào?
+Generated Answer: Augochlora rightmyerae được mô tả bởi Engel vào năm 2000....
+Ground Truth: Augochlora rightmyerae được Engel mô tả khoa học vào năm 2000.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.355, ROUGE-L=0.741
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 130: Ai là người miêu tả khoa học loài Thesium ramosoides lần đầu tiên?
+Generated Answer: Theo thông tin trong ngữ cảnh, loài Thesium ramosoides được Hendrych miêu tả khoa học lần đầu tiên v...
+Ground Truth: Hendrych miêu tả khoa học loài Thesium ramosoides lần đầu tiên vào năm 1962.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.462, ROUGE-L=0.667
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 131: Louppy-le-Château nằm ở tỉnh nào của Pháp?
+Generated Answer: Louppy-le-Château nằm ở tỉnh Meuse, thuộc vùng Grand Est đông nam nước Pháp....
+Ground Truth: Louppy-le-Château nằm ở tỉnh Meuse.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.257, ROUGE-L=0.600
+Retrieval Metrics: Precision=0.973, Recall=0.766, F1=0.857
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 132: Pareulype sineliturata thuộc họ nào?
+Generated Answer: Theo thông tin trong ngữ cảnh, Pareulype sineliturata là một loài bướm đêm thuộc họ Geometridae....
+Ground Truth: Pareulype sineliturata thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.160, ROUGE-L=0.429
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 133: Có những loại phố ma nào phổ biến ở Arizona?
+Generated Answer: Ở Arizona, đa số các phố ma trước đây là những thị trấn khai mỏ rất phát triển. Chúng bị bỏ hoang sa...
+Ground Truth: Phố ma ở Arizona chủ yếu là các thị trấn khai mỏ đã bị bỏ hoang, cùng với những nơi từng có nhà máy tinh chế hoặc điểm vận chuyển cho hoạt động khai mỏ.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.267, ROUGE-L=0.614
+Retrieval Metrics: Precision=0.455, Recall=0.246, F1=0.319
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 134: Hyphantrophaga blandoides thuộc họ nào?
+Generated Answer: Thông tin bạn cung cấp về Hyphantrophaga blandoides rất thú vị! Dựa trên những gì bạn mô tả, đây là ...
+Ground Truth: Hyphantrophaga blandoides thuộc họ Tachinidae.
+GPT-4 Scores: Overall=4.00, Accuracy=4.00, Relevance=4.00
+Traditional Metrics: BLEU=0.010, ROUGE-L=0.068
+Retrieval Metrics: Precision=0.000, Recall=0.000, F1=0.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 135: Swartzia martii thuộc họ nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Swartzia martii là một loài thực vật có hoa trong họ Đậu....
+Ground Truth: Swartzia martii thuộc họ Đậu.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.052, ROUGE-L=0.286
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 136: Licaria pachycarpa được miêu tả khoa học lần đầu vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp, Licaria pachycarpa được miêu tả khoa học lần đầu vào năm 1937....
+Ground Truth: Năm 1937.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.048, ROUGE-L=0.207
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 137: Ai là người đầu tiên mô tả khoa học loài Cyathea macarthurii?
+Generated Answer: Tôi xin lỗi, nhưng thông tin bạn cung cấp không đề cập đến Cyathea macarthurii hay nhà thực vật học ...
+Ground Truth: Loài Cyathea macarthurii được Benth. mô tả khoa học đầu tiên vào năm 1878.
+GPT-4 Scores: Overall=1.50, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.007, ROUGE-L=0.195
+Retrieval Metrics: Precision=0.647, Recall=0.564, F1=0.603
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 138: Kuzyaka thuộc huyện nào ở Thổ Nhĩ Kỳ?
+Generated Answer: Theo thông tin tôi tìm được, Kuzyaka là tên của nhiều xã khác nhau ở Thổ Nhĩ Kỳ, và mỗi xã lại thuộc...
+Ground Truth: Kuzyaka thuộc huyện Kangal, tỉnh Sivas.
+GPT-4 Scores: Overall=4.50, Accuracy=4.00, Relevance=4.00
+Traditional Metrics: BLEU=0.024, ROUGE-L=0.176
+Retrieval Metrics: Precision=0.846, Recall=0.786, F1=0.815
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 139: Dicella julianii thuộc họ thực vật nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Dicella julianii thuộc họ Malpighiaceae....
+Ground Truth: Dicella julianii thuộc họ Malpighiaceae.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.381, ROUGE-L=0.600
+Retrieval Metrics: Precision=0.967, Recall=0.967, F1=0.967
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 140: Ai là đội vô địch của Cúp bóng đá châu Phi 1965?
+Generated Answer: Theo thông tin từ ngữ cảnh (Nguồn 1), đội tuyển Ghana đã bảo vệ thành công chức vô địch tại Cúp bóng...
+Ground Truth: Đội vô địch là Ghana.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.011, ROUGE-L=0.098
+Retrieval Metrics: Precision=0.973, Recall=0.224, F1=0.364
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 141: Euchlaena imitata thuộc họ nào?
+Generated Answer: Dựa vào Nguồn 1, Euchlaena imitata là một loài bướm đêm trong họ Geometridae....
+Ground Truth: Euchlaena imitata thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.077, ROUGE-L=0.308
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 142: Eurydice paxilli thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, *Eurydice paxilli* là một loài chân đều thuộc họ Cirolanidae....
+Ground Truth: Eurydice paxilli thuộc họ Cirolanidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.143, ROUGE-L=0.429
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 143: Cầu Mỹ Thuận nối liền hai tỉnh nào của Việt Nam?
+Generated Answer: Cầu Mỹ Thuận nối liền hai tỉnh Tiền Giang và Vĩnh Long của Việt Nam bạn nhé....
+Ground Truth: Cầu Mỹ Thuận nối liền hai tỉnh Tiền Giang và Vĩnh Long.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.647, ROUGE-L=0.826
+Retrieval Metrics: Precision=0.977, Recall=0.065, F1=0.122
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 144: Pachrophylla jacintaria thuộc họ nào?
+Generated Answer: Dựa vào thông tin được cung cấp từ Nguồn 1, Pachrophylla jacintaria là một loài bướm đêm thuộc họ Ge...
+Ground Truth: Pachrophylla jacintaria thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.129, ROUGE-L=0.343
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 145: Vaughania xerophila thuộc họ nào?
+Generated Answer: Vaughania xerophila thuộc họ Đậu bạn nhé....
+Ground Truth: Vaughania xerophila thuộc họ Đậu.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.541, ROUGE-L=0.800
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 146: Ai là người miêu tả loài Liotrichus nipponensis?
+Generated Answer: Loài Liotrichus nipponensis được Ôhira miêu tả khoa học vào năm 1973....
+Ground Truth: Ôhira là người đã miêu tả loài Liotrichus nipponensis vào năm 1973.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.320, ROUGE-L=0.545
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 147: Atimaea thuộc họ nào?
+Generated Answer: Dựa vào thông tin trong ngữ cảnh, Atimaea là một chi bướm đêm thuộc họ Noctuidae (Nguồn 1). Ngoài ra...
+Ground Truth: Atimaea thuộc họ Noctuidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.025, ROUGE-L=0.182
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 148: Năm 1025 thuộc loại lịch nào?
+Generated Answer: Năm 1025 thuộc lịch Julius, theo như thông tin trong ngữ cảnh bạn cung cấp ạ....
+Ground Truth: Năm 1025 thuộc lịch Julius.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.210, ROUGE-L=0.533
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 149: Gudipala thuộc huyện nào và bang nào?
+Generated Answer: Gudipala thuộc huyện Chittoor, bang Andhra Pradesh....
+Ground Truth: Gudipala thuộc huyện Chittoor, bang Andhra Pradesh.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 150: Dân số của xã İncecikler thuộc huyện Bergama vào năm nào là 256 người?
+Generated Answer: Theo thông tin được cung cấp, dân số của xã İncecikler thuộc huyện Bergama vào năm 2010 là 256 người...
+Ground Truth: Dân số của xã İncecikler là 256 người vào năm 2010.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.272, ROUGE-L=0.553
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 151: Ai là đội vô địch Giải bóng đá vô địch quốc gia Guam mùa giải 2007?
+Generated Answer: Tôi xin lỗi, nhưng thông tin bạn cung cấp chỉ liên quan đến Giải bóng đá vô địch quốc gia Việt Nam n...
+Ground Truth: Đội vô địch Giải bóng đá vô địch quốc gia Guam mùa giải 2007 là đội Guam U21.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.170, ROUGE-L=0.353
+Retrieval Metrics: Precision=0.081, Recall=0.143, F1=0.103
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 152: Konigarahalli thuộc huyện nào ở Ấn Độ?
+Generated Answer: Theo thông tin tôi tìm được, Konigarahalli thuộc huyện Chitradurga, bang Karnataka, Ấn Độ....
+Ground Truth: Konigarahalli thuộc huyện Chitradurga ở bang Karnataka, Ấn Độ.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.402, ROUGE-L=0.667
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 153: Epischura massachusettsensis là gì?
+Generated Answer: Dựa trên thông tin được cung cấp, *Epischura massachusettsensis* là một loài động vật giáp xác Copep...
+Ground Truth: Epischura massachusettsensis là một loài động vật giáp xác thuộc họ Temoridae và là loài đặc hữu của Hoa Kỳ.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.433, ROUGE-L=0.800
+Retrieval Metrics: Precision=0.967, Recall=0.592, F1=0.734
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 154: Pentacalia millei chủ yếu được tìm thấy ở đâu?
+Generated Answer: Pentacalia millei chủ yếu được tìm thấy ở Ecuador. Môi trường sống tự nhiên của chúng là vùng núi ẩm...
+Ground Truth: Loài này chỉ có ở Ecuador.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.023, ROUGE-L=0.125
+Retrieval Metrics: Precision=0.971, Recall=0.458, F1=0.623
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 155: Ai là người đầu tiên miêu tả Crassula pruinosa?
+Generated Answer: Theo thông tin trong ngữ cảnh, Crassula pruinosa được L. miêu tả khoa học đầu tiên vào năm 1767....
+Ground Truth: Crassula pruinosa được L. miêu tả khoa học đầu tiên vào năm 1767.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.640, ROUGE-L=0.818
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 156: Cá mú chấm tổ ong có tên khoa học là gì?
+Generated Answer: Rất tiếc, không có thông tin nào về "cá mú chấm tổ ong" trong các nguồn tài liệu bạn cung cấp. Do đó...
+Ground Truth: Tên khoa học của cá mú chấm tổ ong là Epinephelus merra.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.144, ROUGE-L=0.257
+Retrieval Metrics: Precision=0.447, Recall=0.079, F1=0.134
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 157: Dân số của xã Beyel vào năm 2010 là bao nhiêu?
+Generated Answer: Theo thông tin từ Nguồn 1, dân số của xã Beyel, thuộc huyện Dursunbey, tỉnh Balıkesir, Thổ Nhĩ Kỳ và...
+Ground Truth: Dân số của xã Beyel vào năm 2010 là 347 người.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.306, ROUGE-L=0.615
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 158: Heterorachis fuscoterminata thuộc họ nào?
+Generated Answer: Theo thông tin trong ngữ cảnh, Heterorachis fuscoterminata là một loài bướm đêm thuộc họ Geometridae...
+Ground Truth: Heterorachis fuscoterminata thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.160, ROUGE-L=0.429
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 159: Ngày 10 tháng 2 là ngày thứ mấy trong năm theo lịch Gregory?
+Generated Answer: Chào bạn, rất tiếc là các nguồn thông tin được cung cấp không cho biết ngày 10 tháng 2 là ngày thứ b...
+Ground Truth: Ngày 10 tháng 2 là ngày thứ 41 trong năm theo lịch Gregory.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.147, ROUGE-L=0.327
+Retrieval Metrics: Precision=0.971, Recall=0.052, F1=0.099
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 160: Quận Olmsted được thành lập vào năm nào?
+Generated Answer: Quận Olmsted được thành lập vào năm 1855....
+Ground Truth: Quận Olmsted được lập vào năm 1855.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.597, ROUGE-L=0.917
+Retrieval Metrics: Precision=0.969, Recall=0.388, F1=0.554
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 161: Fuensaldaña có dân số bao nhiêu người theo điều tra dân số 2004?
+Generated Answer: Theo điều tra dân số năm 2004, Fuensaldaña có dân số là 1.149 người....
+Ground Truth: Fuensaldaña có dân số 1.149 người theo điều tra dân số 2004.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.435, ROUGE-L=0.513
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 162: Elaphidion excelsum thuộc họ nào?
+Generated Answer: Dựa vào Nguồn 1, Elaphidion excelsum là một loài bọ cánh cứng thuộc họ Cerambycidae....
+Ground Truth: Elaphidion excelsum thuộc họ Cerambycidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.170, ROUGE-L=0.414
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 163: Ormosia hispa thuộc họ nào?
+Generated Answer: Theo thông tin trong ngữ cảnh, *Ormosia hispa* thuộc họ Limoniidae....
+Ground Truth: Ormosia hispa thuộc họ Limoniidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.196, ROUGE-L=0.600
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 164: Euphorbia dumalis được mô tả khoa học lần đầu tiên vào năm nào?
+Generated Answer: Euphorbia dumalis được S.Carter mô tả khoa học lần đầu tiên vào năm 1985....
+Ground Truth: Euphorbia dumalis được mô tả lần đầu vào năm 1985.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.290, ROUGE-L=0.788
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 165: Ai đã mô tả khoa học loài Carex titovii lần đầu tiên?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1 (Carex titovii), loài Carex titovii được V.I.Krecz. mô tả kho...
+Ground Truth: V.I.Krecz. đã mô tả khoa học loài Carex titovii lần đầu tiên vào năm 1935.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.318, ROUGE-L=0.600
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 166: Dân số của thành phố Cumberland, Wisconsin vào năm 2000 là bao nhiêu người?
+Generated Answer: Dân số của thành phố Cumberland, Wisconsin vào năm 2000 là 2280 người....
+Ground Truth: Dân số của thành phố Cumberland vào năm 2000 là 2280 người.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.724, ROUGE-L=0.973
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 167: Tiểu hành tinh 18948 Hinkle được phát hiện vào năm nào?
+Generated Answer: Tiểu hành tinh 18948 Hinkle được phát hiện vào ngày 24 tháng 8 năm 2000....
+Ground Truth: Tiểu hành tinh 18948 Hinkle được phát hiện vào năm 2000.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.603, ROUGE-L=0.850
+Retrieval Metrics: Precision=0.973, Recall=0.800, F1=0.878
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 168: Mastrus sanguinatorius thuộc họ nào?
+Generated Answer: Dựa trên thông tin bạn cung cấp, Mastrus sanguinatorius là một loài côn trùng ký sinh thuộc chi Mast...
+Ground Truth: Mastrus sanguinatorius thuộc họ Ichneumonidae.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.008, ROUGE-L=0.059
+Retrieval Metrics: Precision=0.259, Recall=0.467, F1=0.333
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 169: Paralcis alterata thuộc họ nào?
+Generated Answer: Theo thông tin từ Nguồn 1, *Paralcis alterata* là một loài bướm đêm thuộc họ Geometridae....
+Ground Truth: Paralcis alterata thuộc họ Geometridae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.143, ROUGE-L=0.429
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 170: Ai là người miêu tả loài Cryptocephalus ejimai?
+Generated Answer: Theo Nguồn 1, loài bọ cánh cứng Cryptocephalus ejimai được Takizawa miêu tả khoa học vào năm 1990....
+Ground Truth: Loài Cryptocephalus ejimai được Takizawa miêu tả năm 1990.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.308, ROUGE-L=0.632
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 171: Aristeguietia cursonii được mô tả lần đầu vào năm nào?
+Generated Answer: Aristeguietia cursonii được mô tả khoa học lần đầu tiên vào năm 1975....
+Ground Truth: Aristeguietia cursonii được mô tả lần đầu vào năm 1975.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.484, ROUGE-L=0.839
+Retrieval Metrics: Precision=0.969, Recall=0.969, F1=0.969
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 172: Ai là người đã miêu tả khoa học loài Spiraea ovalis lần đầu tiên?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài Spiraea ovalis được Rehder miêu tả khoa học lần đầu tiê...
+Ground Truth: Rehder là người đã miêu tả khoa học loài Spiraea ovalis lần đầu tiên vào năm 1913.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.368, ROUGE-L=0.610
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 173: Amandus subsulcatus được ai miêu tả lần đầu tiên và vào năm nào?
+Generated Answer: Theo thông tin được cung cấp từ Nguồn 1, loài bọ cánh cứng Amandus subsulcatus được Jacoby miêu tả k...
+Ground Truth: Loài Amandus subsulcatus được Jacoby miêu tả lần đầu tiên vào năm 1886.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.361, ROUGE-L=0.655
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 174: Hypsiboas semiguttatus chủ yếu sống ở đâu?
+Generated Answer: Hypsiboas semiguttatus chủ yếu sống ở rừng ẩm vùng đất thấp nhiệt đới hoặc cận nhiệt đới, sông ngòi,...
+Ground Truth: Chúng chủ yếu sống ở rừng ẩm vùng đất thấp nhiệt đới hoặc cận nhiệt đới, sông ngòi, và vườn nông thôn.
+GPT-4 Scores: Overall=4.50, Accuracy=4.00, Relevance=4.00
+Traditional Metrics: BLEU=0.415, ROUGE-L=0.673
+Retrieval Metrics: Precision=0.972, Recall=0.412, F1=0.579
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 175: Alouatta nigerrima được mô tả lần đầu tiên vào năm nào?
+Generated Answer: Theo thông tin từ Nguồn 1, Alouatta nigerrima được Lönnberg mô tả năm 1941....
+Ground Truth: Loài này được mô tả lần đầu vào năm 1941.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.080, ROUGE-L=0.424
+Retrieval Metrics: Precision=0.966, Recall=0.933, F1=0.949
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 176: Ai là người đầu tiên mô tả loài Pilotrichella profusicaulis?
+Generated Answer: Rất tiếc, thông tin bạn cung cấp không đề cập đến loài Pilotrichella profusicaulis, nên tôi không th...
+Ground Truth: Loài Pilotrichella profusicaulis được Paris mô tả khoa học đầu tiên vào năm 1897.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=2.00
+Traditional Metrics: BLEU=0.042, ROUGE-L=0.277
+Retrieval Metrics: Precision=0.900, Recall=0.964, F1=0.931
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 177: Garudinia simulana thuộc phân họ nào?
+Generated Answer: Theo thông tin được cung cấp từ Nguồn 1, Garudinia simulana là một loài bướm đêm thuộc phân họ Arcti...
+Ground Truth: Garudinia simulana thuộc phân họ Arctiinae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.186, ROUGE-L=0.444
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 178: Dân số của xã Montrose, Michigan vào năm 2010 là bao nhiêu người?
+Generated Answer: Dân số của xã Montrose, Michigan vào năm 2010 là 6.224 người....
+Ground Truth: Dân số của xã Montrose vào năm 2010 là 6.224 người.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.700, ROUGE-L=0.971
+Retrieval Metrics: Precision=0.968, Recall=1.000, F1=0.984
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 179: Dryptodon incurvus được mô tả khoa học lần đầu vào năm nào?
+Generated Answer: Dryptodon incurvus thuộc chi Dryptodon, mà Dryptodon lại là một chi rêu trong họ Grimmiaceae. Vậy Dr...
+Ground Truth: Dryptodon incurvus được mô tả khoa học lần đầu vào năm 1826.
+GPT-4 Scores: Overall=2.25, Accuracy=2.00, Relevance=2.00
+Traditional Metrics: BLEU=0.018, ROUGE-L=0.348
+Retrieval Metrics: Precision=0.923, Recall=0.387, F1=0.545
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 180: Chi Trichostema thuộc họ nào?
+Generated Answer: Theo thông tin bạn cung cấp, chi Trichostema thuộc họ Hoa môi (Lamiaceae)....
+Ground Truth: Chi Trichostema thuộc họ Hoa môi (Lamiaceae).
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.545, ROUGE-L=0.667
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 181: Ai là người mô tả loài Habenaria bosseriana lần đầu tiên?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài Habenaria bosseriana được Szlach. & Olszewski mô tả kho...
+Ground Truth: Loài Habenaria bosseriana được mô tả khoa học đầu tiên bởi Szlach. & Olszewski năm 1998.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.294, ROUGE-L=0.582
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 182: Phước Hiệp thuộc tỉnh nào ở thành phố Bà Rịa – Vũng Tàu?
+Generated Answer: Phước Hiệp là một phường thuộc thành phố Bà Rịa, tỉnh Bà Rịa – Vũng Tàu, Việt Nam....
+Ground Truth: Phước Hiệp thuộc phường Phước Hiệp, thành phố Bà Rịa, tỉnh Bà Rịa – Vũng Tàu.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.553, ROUGE-L=0.786
+Retrieval Metrics: Precision=0.515, Recall=0.386, F1=0.442
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 183: Ceriscoides imbakensis được mô tả lần đầu bởi ai và vào năm nào?
+Generated Answer: Ceriscoides imbakensis được Azmi mô tả khoa học lần đầu tiên vào năm 2003....
+Ground Truth: Ceriscoides imbakensis được Azmi mô tả khoa học lần đầu vào năm 2003.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.800, ROUGE-L=0.944
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 184: 231 là số tự nhiên nào trong dãy số tự nhiên?
+Generated Answer: Tôi xin lỗi, nhưng không có thông tin nào trong các nguồn được cung cấp cho biết vị trí của số 231 t...
+Ground Truth: 231 là số tự nhiên ngay sau 230 và ngay trước 232.
+GPT-4 Scores: Overall=1.50, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.020, ROUGE-L=0.143
+Retrieval Metrics: Precision=0.344, Recall=0.579, F1=0.431
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 185: Ai là người mô tả khoa học loài Gaultheria pernettyoides lần đầu tiên?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, loài Gaultheria pernettyoides được Sleumer mô tả khoa học lầ...
+Ground Truth: Sleumer là người mô tả khoa học loài Gaultheria pernettyoides lần đầu tiên vào năm 1957.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.368, ROUGE-L=0.596
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 186: Hãng hàng không Tatarstan bắt đầu có chuyến bay thường lệ vào năm nào?
+Generated Answer: Hãng hàng không Tatarstan bắt đầu có các chuyến bay thường lệ vào năm 1999....
+Ground Truth: Hãng bắt đầu có tuyến bay thường lệ vào năm 1999.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.469, ROUGE-L=0.780
+Retrieval Metrics: Precision=0.968, Recall=0.233, F1=0.375
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 187: Cladopodanthus heterophyllus thuộc họ nào?
+Generated Answer: Dựa vào thông tin được cung cấp từ Nguồn 1, Cladopodanthus heterophyllus thuộc họ Dicranaceae....
+Ground Truth: Cladopodanthus heterophyllus thuộc họ Dicranaceae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.282, ROUGE-L=0.444
+Retrieval Metrics: Precision=0.968, Recall=0.968, F1=0.968
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 188: Orectochilus discus được miêu tả lần đầu vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp, loài bọ cánh cứng Orectochilus discus được Aubé miêu tả khoa học lần đầ...
+Ground Truth: Loài Orectochilus discus được miêu tả lần đầu vào năm 1838.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.163, ROUGE-L=0.615
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 189: Sybra egumensis thuộc họ nào?
+Generated Answer: Theo thông tin bạn cung cấp từ Nguồn 1, Sybra egumensis là một loài bọ cánh cứng trong họ Cerambycid...
+Ground Truth: Sybra egumensis thuộc họ Cerambycidae.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.054, ROUGE-L=0.294
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 190: Dân số của xã Çakmak vào năm 2011 là bao nhiêu người?
+Generated Answer: Chào bạn, có vẻ như có nhiều xã tên Çakmak ở Thổ Nhĩ Kỳ. Dưới đây là dân số của các xã Çakmak vào nă...
+Ground Truth: Dân số của xã Çakmak vào năm 2011 là 89 người.
+GPT-4 Scores: Overall=3.75, Accuracy=3.00, Relevance=3.00
+Traditional Metrics: BLEU=0.040, ROUGE-L=0.233
+Retrieval Metrics: Precision=0.800, Recall=0.769, F1=0.784
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 191: Thờ cúng tổ tiên là gì và khi nào thì người Việt thực hiện các nghi thức này?
+Generated Answer: Thờ cúng tổ tiên là một tín ngưỡng quan trọng và gần như không thể thiếu trong phong tục của người V...
+Ground Truth: Thờ cúng tổ tiên là một phong tục truyền thống của người Việt nhằm tôn vinh và tưởng niệm tổ tiên. Các nghi thức này thường được thực hiện vào ngày giỗ, ngày mùng 1, ngày rằm và các ngày lễ tết, cũng như trong các sự kiện quan trọng như đám cưới hoặc sinh con.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.047, ROUGE-L=0.345
+Retrieval Metrics: Precision=0.800, Recall=0.070, F1=0.129
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 192: Kenneth Taylor hiện đang thi đấu cho câu lạc bộ nào?
+Generated Answer: Thông tin bạn cung cấp về Kenneth Taylor và vai trò của ông trong cuộc khủng hoảng con tin Iran khôn...
+Ground Truth: Kenneth Taylor hiện đang thi đấu cho câu lạc bộ Eredivisie Ajax.
+GPT-4 Scores: Overall=1.50, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.008, ROUGE-L=0.138
+Retrieval Metrics: Precision=0.105, Recall=0.053, F1=0.070
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 193: Brachystelma nauseosum được mô tả khoa học lần đầu vào năm nào?
+Generated Answer: Brachystelma nauseosum được mô tả khoa học lần đầu vào năm 1903....
+Ground Truth: Brachystelma nauseosum được mô tả khoa học lần đầu vào năm 1903.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=1.000, ROUGE-L=1.000
+Retrieval Metrics: Precision=0.970, Recall=0.970, F1=0.970
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 194: Sazlıçayır thuộc huyện nào và tỉnh nào ở Thổ Nhĩ Kỳ?
+Generated Answer: Sazlıçayır thuộc huyện Hanak, tỉnh Ardahan của Thổ Nhĩ Kỳ....
+Ground Truth: Sazlıçayır thuộc huyện Hanak, tỉnh Ardahan.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.533, ROUGE-L=0.815
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 195: Safia clearos thuộc họ nào?
+Generated Answer: Thông tin bạn cung cấp không có chi "Safia clearos". Tuy nhiên, có một chi có tên "Safia" thuộc họ N...
+Ground Truth: Safia clearos thuộc họ Noctuidae.
+GPT-4 Scores: Overall=4.00, Accuracy=4.00, Relevance=4.00
+Traditional Metrics: BLEU=0.037, ROUGE-L=0.308
+Retrieval Metrics: Precision=0.500, Recall=0.800, F1=0.615
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 196: Loài thực vật nào được mô tả lần đầu tiên bởi McVaugh vào năm 1961?
+Generated Answer: Dựa trên thông tin bạn cung cấp, các loài thực vật sau đây đã được McVaugh mô tả khoa học lần đầu ti...
+Ground Truth: Manihot auriculata.
+GPT-4 Scores: Overall=2.00, Accuracy=1.00, Relevance=1.00
+Traditional Metrics: BLEU=0.000, ROUGE-L=0.000
+Retrieval Metrics: Precision=0.900, Recall=0.871, F1=0.885
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 197: Nhân vật chính trong vở kịch Hamlet là ai và hoàn cảnh của họ ra sao?
+Generated Answer: Nhân vật chính trong vở kịch Hamlet là Hamlet, hoàng tử nước Đan Mạch. Chàng là sinh viên trường Đại...
+Ground Truth: Nhân vật chính trong vở kịch Hamlet là Hamlet, hoàng tử nước Đan Mạch. Chàng vừa mất cha, mẹ tái giá với chú ruột Claudius, và được hồn ma của vua cha báo cho biết Claudius đã giết mình để chiếm ngôi.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.256, ROUGE-L=0.563
+Retrieval Metrics: Precision=0.972, Recall=0.057, F1=0.108
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 198: Hồng Gia quyền có nguồn gốc từ đâu?
+Generated Answer: Hồng Gia quyền có nguồn gốc từ chùa Nam Thiếu Lâm ở Phúc Kiến, Trung Quốc. Theo truyền thuyết, người...
+Ground Truth: Hồng Gia quyền có nguồn gốc từ chùa Nam Thiếu Lâm ở Phúc Kiến, Trung Quốc, do Chí Thiện thiền sư sáng lập.
+GPT-4 Scores: Overall=4.75, Accuracy=5.00, Relevance=4.00
+Traditional Metrics: BLEU=0.221, ROUGE-L=0.434
+Retrieval Metrics: Precision=0.963, Recall=0.023, F1=0.046
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 199: Pouzolzia acalyphoides được miêu tả khoa học lần đầu vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp, Pouzolzia acalyphoides được miêu tả khoa học lần đầu vào năm 1869....
+Ground Truth: Pouzolzia acalyphoides được miêu tả khoa học lần đầu vào năm 1869.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.620, ROUGE-L=0.791
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
+Question 200: Oncidium oviedomotae được mô tả lần đầu vào năm nào?
+Generated Answer: Theo thông tin bạn cung cấp, Oncidium oviedomotae được mô tả khoa học lần đầu tiên vào năm 1973....
+Ground Truth: Oncidium oviedomotae được mô tả lần đầu vào năm 1973.
+GPT-4 Scores: Overall=5.00, Accuracy=5.00, Relevance=5.00
+Traditional Metrics: BLEU=0.310, ROUGE-L=0.650
+Retrieval Metrics: Precision=1.000, Recall=1.000, F1=1.000
+Source: wikipedia
+--------------------------------------------------------------------------------
+
