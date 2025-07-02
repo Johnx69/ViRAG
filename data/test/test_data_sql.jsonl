@@ -1,0 +1,9 @@
+{"question": "Có tất cả bao nhiêu khách hàng trong dữ liệu bán hàng?", "description": "Sử dụng COUNT(*) trên bảng KHÁCH_HÀNG"}
+{"question": "Tên của nhân viên có mã nhân viên NV100 là gì?", "description": "Lấy một hàng duy nhất từ ​​bảng NHÂN_VIÊN bằng cách sử dụng WHERE mã_nhân_viên = NV100"}
+{"question": "Những sản phẩm nào có giá vốn lớn hơn 100.000.000 đồng?", "description": "Sử dụng SELECT trên bảng SẢN_PHẨM với điều kiện WHERE sử dụng >"}
+{"question": "Có bao nhiêu đơn bán hàng được hoạch toán vào ngày 4/4/2024?", "description": "Sử dụng COUNT(*) trên bảng DỮ_LIỆU_BÁN_HÀNG vói điều kiện WHERE cho ngày 4/4/2024"}
+{"question": "Những nhân viên có tên kết thúc bằng 'Hùng' bán được tổng cộng bao nhiêu đơn hàng?", "description": "Sử dụng JOIN hai bảng NHÂN_VIÊN và DỮ_LIỆU_BÁN_HÀNG, sử dụng LIKE '%Hùng' để lọc những nhân viên có tên kết thúc bằng 'Hùng'"}
+{"question": "Tổng doanh thu của mỗi chi nhánh có tổng doanh thu lớn hơn 350.000.000.000 đồng là bao nhiêu?", "description": "Sử dụng GROUP BY trên bảng DỮ_LIỆU_BÁN_HÀNG và HAVING để lọc những chi nhánh có tổng doanh thu lớn hơn 350.000.000.000 đồng"}
+{"question": "Doanh thu trung bình trong tháng 6 năm 2024 của mỗi chi nhánh là bao nhiêu?", "description": "Sử dụng AVG và GROUP_BY trên bảng DỮ_LIỆU_BÁN_HÀNG, sử dụng BETWEEN lọc dữ liệu trong tháng 6 năm 2024"}
+{"question": "Những khách hàng nào đã mua sản phẩm 'Phần mềm Cube IQ'?", "description": "Sử dụng JOIN giữa 3 bảng KHÁCH_HÀNG, DỮ_LIỆU_BÁN_HÀNG và SẢN_PHẨM, sử dụng WHERE để lọc sản phẩm 'Phần mềm Cube IQ'"}
+{"question": "Những nhân viên nào bán được đơn hàng ở chi nhánh tại thành phố 'Hà Nội'?", "description": "sử dụng JOIN giữa 3 bảng NHÂN_VIÊN, DỮ_LIỆU_BÁN_HÀNG và CHI_NHÁNH, sử dụng WHERE để lọc chi nhánh tại thành phố 'Hà Nội'"}
