@@ -11,6 +11,8 @@ _An advanced Vietnamese Retrieval-Augmented Generation system with intelligent q
 
 </div>
 
+<img src="pipeline.png" alt="Pipeline Diagram" />
+
 ## ✨ Features
 
 ### 🎯 **Intelligent Query Routing**
