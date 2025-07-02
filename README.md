@@ -203,10 +203,6 @@ Intelligent classification between business and general queries using Gemini 2.0
 - Context-aware chart type selection
 - Multiple export formats
 
-## 📊 System Flow
-
-<img src="pipeline.png" alt="Pipeline Diagram" />
-
 ## 🔍 Advanced Features
 
 - **Multi-language support**: Optimized for Vietnamese
