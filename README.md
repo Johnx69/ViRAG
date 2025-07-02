@@ -45,6 +45,16 @@ _An advanced Vietnamese Retrieval-Augmented Generation system with intelligent q
 - GCP-hosted business database
 - Web search fallback via Tavily
 
+## 🌱 Roadmap / Next Phases
+
+| Phase | Focus Area                                | Description                                                                                                           |
+| ----- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **1** | 🖼️ **Image Generation**                   | Integrate Gemini 1.5 Pro-Vision & Stable Diffusion XL for text-to-image answers in Vietnamese.                        |
+| **2** | 🧩 **Model Zoo Expansion**                | Add more Vietnamese embedding models (e.g. MiniLM-Vi, bge-base-vi) and lightweight generator back-ends to lower cost. |
+| **3** | 📏 **Metrics**                            | Implement end-to-end RAG evaluation (EM, F1, ROUGE-L) plus SQL-accuracy & chart-quality scores.                       |
+| **4** | 🏋️ **Benchmarking Suite**                 | Reproducible benchmarks on public (ViQuAD, UIT-SDS) and private business datasets; automatic report generation.       |
+| **5** | 🏭 **LLMOps Production-Ready Components** | Add CI/CD, Docker/K8s Helm charts, Prometheus + Grafana monitoring, Canary & A/B rollout scripts.                     |
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -59,8 +69,8 @@ _An advanced Vietnamese Retrieval-Augmented Generation system with intelligent q
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd vietnamese-rag-system
+   git clone https://github.com/Johnx69/ViRAG.git
+   cd ViRAG
    ```
 
 2. **Navigate to demo and setup environment**
